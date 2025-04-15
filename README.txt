@@ -171,9 +171,3 @@ On doit aussi l'initialiser pour que les pointeurs pointent vers les bonnes fonc
 
 Je n'ai fait qu'un "dummy" visiteur car j'avais déjà une fonction d'affichage de l'AST grâce à un
 parcours classique. 
-
-
-
-
-
-
