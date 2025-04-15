@@ -1,3 +1,5 @@
+Alexis Motet - ENSTA Bretagne - 2022
+
 I - Lancer le projet
     1. "make" puis "./start_visiteur"
 
